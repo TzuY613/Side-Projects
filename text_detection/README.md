@@ -17,4 +17,5 @@ CPTN及Seglink目前由其他組員負責
 see [github](https://github.com/argman/EAST)
 
 > 選擇[EAST](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_EAST_An_Efficient_CVPR_2017_paper.pdf)嘗試做文字偵測
+* 使用的[source  code] (https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/) 
 
