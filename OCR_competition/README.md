@@ -14,5 +14,5 @@ connected component，並根據component數量判斷字元位置
 * Adaptive thershold：Guassian
 
 ----
-##切割字元位置
+## 切割字元位置
 根據component數量判斷字元位置
